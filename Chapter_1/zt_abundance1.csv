@@ -1,0 +1,34 @@
+Temperature [K],Material,ZT,Major consitituing element,Abundance [kg/kg],Material family,Abundance [ppm]
+305.7646132,MnSi,0.14,Mn,9.50E-04,Silicide,200000
+363.9447457,MnSi,0.19,Mn,9.50E-04,Silicide,200000
+307.2053029,BaAuGe,0.19,Ge,1.50E-06,Clathrates,1.5
+356.8822139,BaAuGe,0.25,Ge,1.50E-06,Clathrates,1.5
+406.5628332,BaAuGe,0.33,Ge,1.50E-06,Clathrates,1.5
+459,BaAuGe,0.4,Ge,1.50E-06,Clathrates,1.5
+301.6353776,DD-FeCoSbSn,0.41,Sb,2.00E-07,Skutterudites,0.2
+335.71316,DD-FeCoSbSn,0.48,Sb,2.00E-07,Skutterudites,0.2
+389.6676401,DD-FeCoSbSn,0.6,Sb,2.00E-07,Skutterudites,0.2
+414,DD-FeCoSbSn,0.68,Sb,2.00E-07,Skutterudites,0.2
+470,DD-FeCoSbSn,0.64,Sb,2.00E-07,Skutterudites,0.2
+300.1131043,PbTeNaSr,0.19,Te,1.00E-09,Bi chalcogenides,0.001
+324.2488296,PbTeNaSr,0.23,Te,1.00E-09,Bi chalcogenides,0.001
+372.5518009,PbTeNaSr,0.39,Te,1.00E-09,Bi chalcogenides,0.001
+300.1131043,PbTeNaSr,0.19,Te,1.00E-09,Bi chalcogenides,0.001
+324.2488296,PbTeNaSr,0.23,Te,1.00E-09,Bi chalcogenides,0.001
+372.5518009,PbTeNaSr,0.39,Te,1.00E-09,Bi chalcogenides,0.001
+424,PbTeNaSr,0.6,Te,1.00E-09,Bi chalcogenides,0.001
+475,PbTeNaSr,0.8,Te,1.00E-09,Bi chalcogenides,0.001
+298.9337598,Cu(DCNQI)2,0.2,C,2.00E-04,Small molecules,200
+293.1265934,PEDOT:TOS,0.41,C,2.00E-04,Polymers,1000
+298.6501646,PEDOT:PSS Te Nanorods,0.09,C,2.00E-04,Organic-inorganic composites,1000
+304.7577991,PEDOT:PSS PANI Graphene CNTs,1.015,C,2.00E-04,Organic-composites,1000
+302.0099198,SiNWs,1.2039,Si,2.82E-01,Silicide,200000
+300.5785009,BiSbTe,1.176,Te,1.00E-09,Bi chalcogenides,0.001
+324.7476012,BiSbTe,1.294,Te,1.00E-09,Bi chalcogenides,0.001
+346.0612803,BiSbTe,1.372,Te,1.00E-09,Bi chalcogenides,0.001
+374.4634497,BiSbTe,1.44,Te,1.00E-09,Bi chalcogenides,0.001
+301,Na-doped SnSe,0.72,Sn,2.30E-06,Sn chalcogenides,2.3
+321,Na-doped SnSe,0.79,Sn,2.30E-06,Sn chalcogenides,2.3
+375,Na-doped SnSe,1.03,Sn,2.30E-06,Sn chalcogenides,2.3
+425,Na-doped SnSe,1.25,Sn,2.30E-06,Sn chalcogenides,2.3
+474,Na-doped SnSe,1.42,Sn,2.30E-06,Sn chalcogenides,2.3
