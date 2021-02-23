@@ -1,4 +1,4 @@
 # OZA_PhD
 
 
-This repository contains data from the thesis 'some title' .... 'some more details'
+This repository contains data from the thesis entitled 'IMPROVING THE PERFORMANCE OF ORGANIC THERMOELECTRICS' 
