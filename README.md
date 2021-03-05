@@ -1,4 +1,4 @@
-<img src="Icon_PhD_repo.png" align="right" width="250" height="300" />
+<img src="Icon_PhD_repo.png" align="right" width="200" height="280" />
 
 # OZA_PhD
 
