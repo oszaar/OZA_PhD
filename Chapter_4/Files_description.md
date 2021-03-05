@@ -1,1 +1,1 @@
-# This folder contains files from the chapter entitled 'yyyy'
+# This folder contains the data used for the Chapter 4 of the Thesis. "Experimental section"
