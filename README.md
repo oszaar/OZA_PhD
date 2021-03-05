@@ -1,3 +1,5 @@
+<img src="icon_PhD_repo.png" align="right" />
+
 # OZA_PhD
 
 
