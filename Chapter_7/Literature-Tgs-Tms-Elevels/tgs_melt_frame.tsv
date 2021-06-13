@@ -1,0 +1,26 @@
+Material	Temperature	SigmaE0	type	Method	Reference
+PBTTT	5	2.3E-02	Tg-bb	rheo (in-house HH)	10.1038/s41467-020-14656-8
+PBTTT	100	2.3E-02	Tg-bb	UV-Vis-NIR	10.1021/acs.chemmater.7b00242
+PBTTT	106	2.3E-02	Tg-bb	rheology	 Enrique D. Pennstate U / group webpage
+PBTTT	250	2.3E-02	Tm-bb	DSC	10.1021/nn800574f
+PBTTT	232	2.3E-02	Tm-bb	DSC	10.1021/acs.chemmater.7b00242
+P3HT	1	7E-02	Tg-bb	rheology	10.1038/s41467-020-14656-8
+P3HT	12	7E-02	Tg-bb	rheology	10.1116/1.4831765
+P3HT	248	7E-02	Tm-bb	DSC	10.1016/j.joule.2019.03.020
+PFO	71	2.6E-02	Tg-bb	rheology	10.1038/s41467-020-14656-8
+PFO	70.85	2.6E-02	Tg-bb	rheology	 Enrique D. Pennstate U / group webpage'
+PFO	170	2.6E-02	Tm-bb	DSC	10.1002/polb.23797
+PTB7 Th	40	6.2E-02	Tg-bb	rheology	10.1038/s41467-020-14656-8
+PTB7 Th	60	6.2E-02	Tg-bb	rheology	10.1002/marc.201700428
+PTB7 Th	129	6.2E-02	Tg-bb	rheology	10.1002/marc.201700428
+PTB7 Th	276	6.2E-02	Tm-bb	DSC	10.1016/j.joule.2019.03.020
+PCDTBT	107	3E-02	Tg-bb	rheology	10.1038/s41467-020-14656-8
+PCDTBT	277	3E-02	Tm-bb	DSC	10.1039/c5ra13452h
+PCDTBT	116	3E-02	Tg-bb	rheology	10.1038/s41467-020-14656-8
+PCDTBT	119	3E-02	Tg-bb	rheology	10.1038/s41467-020-14656-8
+PCDTBT	130	3E-02	Tg-bb	DSC	10.1021/acs.chemmater.5b00024
+PCDTBT	120	3E-02	Tm-sc	DSC	10.1039/c5ra13452h
+PCPDTBT 	112	1.5E-02	Tg-bb	rheology	10.1038/s41467-020-14656-8
+PCPDTBT 	104	1.5E-02	Tg-bb	UV-Vis-NIR	10.1021/acs.chemmater.7b00242
+PCPDTBT 	133	1.5E-02	Tm-sc	DSC	10.1039/c7tc00893g
+PCPDTBT 	318	1.5E-02	Tm-bb	DSC	10.3390/polym12081726
